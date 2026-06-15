@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Market Otomasyonu (Temel Seviye)<br>🌱 I’m currently learning C# , HTML , C++ , SQL<br>📫 How to reach me sudesaracli78@gmail.com<br>⚡ Fun fact Bazen sıkıcı bazen çok eğlenceli bir dostumdur:)
+🔭 Şu anda Market Otomasyonu (Temel Seviye) üzerinde çalışıyorum <br>🌱 Şu anda C# , HTML , C++ , SQL öğreniyorum <br>📫  Bana nasıl ulaşırsın sudesaracli78@gmail.com<br>⚡  Bazen sıkıcı bazen çok eğlenceli bir dostumdur:)
 
 
 ## 🌐 Socials:
