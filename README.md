@@ -7,7 +7,6 @@
 
 # 💫 About Me:
 🔭 Şu anda Market Otomasyonu (Temel Seviye) üzerinde çalışıyorum <br>🌱 Şu anda C# , HTML , C++ , SQL öğreniyorum <br>📫  Bana nasıl ulaşırsın sudesaracli78@gmail.com<br>⚡  Bazen sıkıcı bazen çok eğlenceli bir dostumdur:)
-![MasterHead](file:///C:/Users/sudes/OneDrive/Masa%C3%BCst%C3%BC/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beckkygrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudesaracli78@gmail.com) 
